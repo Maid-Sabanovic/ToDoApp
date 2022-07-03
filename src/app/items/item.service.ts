@@ -27,9 +27,9 @@ export class ItemService {
 
     fetchItems(): Item[] {
         const mock = [
-            { id: 1, description: 'Test1', isComplete: false},
-            { id: 2, description: 'Test2', isComplete: false},
-            { id: 3, description: 'Test3', isComplete: false},
+            { id: 1, description: 'Item1', isComplete: false},
+            { id: 2, description: 'Item2', isComplete: false},
+            { id: 3, description: 'Item3', isComplete: false},
         ]
 
         return mock;
