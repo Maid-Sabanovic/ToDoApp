@@ -1,6 +1,9 @@
-# TodoUI
+# Project description
+
+A very simple todo app using only angular. No API calls, fetching data happens on client side.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+
 
 ## Development server
 
